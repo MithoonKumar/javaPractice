@@ -1,5 +1,6 @@
 package org.example.LLD.FactoryMethodPattern;
 
+// The Factory Method pattern defines an interface for creating objects, but the concrete subclasses decide which class to instantiate. It promotes loose coupling between the creator and the product classes.
 public class Main {
     public static void main(String[] args) {
 
